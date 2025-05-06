@@ -28,3 +28,6 @@
   [plugins.inputs]
     record = true
     group = "Testing Built Site"
+
+[functions]
+directory = "netlify/functions"

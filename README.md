@@ -129,7 +129,6 @@ You will need these 2 environment variables to connect to your Supabase instance
 
   ![supabase url location](https://github.com/ixartz/kpop-stack/assets/5209935/72859c6a-4f71-4d1a-bdc4-6c3ad756838c)
 
-
   </details>
 
 You can add your environment variables to an `.env` file (like shown in the sample [`.env.sample`](./.env.sample)) which will not be committed publicly because it is added to the `.gitignore` file. Or you can add it to your Netlify project environment variables (Site settings/Build & deploy/Environment) as shown in the [Development section](#development) so that they can be [easily shared with teammates](https://www.netlify.com/blog/2021/12/09/use-access-and-share-environment-variables-on-netlify).
